@@ -2,3 +2,8 @@ streamlit
 folium
 geopy
 pandas
+streamlit-folium
+numpy
+PIL
+opencv-python
+tensorflow
